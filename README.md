@@ -29,7 +29,7 @@ A sleek, modern web application that allows users to generate and download QR co
 4. Download your QR code with a single click!
 
 ## 🔧 Setup
-1.
+1. Clone the repository
 ```bash
 git clone https://github.com/your-username/qr-code-generator.git
 ```
